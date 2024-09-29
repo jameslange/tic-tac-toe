@@ -1,0 +1,2 @@
+name = "tic-tac-toe-monorepo"
+workspace = ["packages/server", "packages/client"]
